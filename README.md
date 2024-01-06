@@ -21,4 +21,4 @@
 
 DB String Checker simplifies the task of finding relevant data within vast sets of files, enabling you to quickly extract valuable information for your projects and analyses.
 
-![DB String Checker](https://prnt.sc/ZMPSQs2UOg04)
+![DB String Checker](https://image.noelshack.com/fichiers/2024/01/6/1704503758-screenshot-1.png)
